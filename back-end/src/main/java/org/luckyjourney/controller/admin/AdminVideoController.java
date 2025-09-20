@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 /**
  * @description: 视频管理端
  * @Author: hrf
- * @CreateTime: 2023-10-29 12:41
+ * @CreateTime: 2024-01-09 12:41
  */
 @RestController
 @RequestMapping("/admin/video")

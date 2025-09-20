@@ -5,14 +5,6 @@ import org.luckyjourney.entity.user.Favorites;
 
 import java.util.List;
 
-/**
- * <p>
- *  服务类
- * </p>
- *
- * @author hrf
- * @since 2023-10-30
- */
 public interface FavoritesService extends IService<Favorites> {
 
     /**

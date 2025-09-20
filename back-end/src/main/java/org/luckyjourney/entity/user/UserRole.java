@@ -7,14 +7,6 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import org.luckyjourney.entity.BaseEntity;
 
-/**
- * <p>
- * 
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Data
 @EqualsAndHashCode(callSuper = false)
 public class UserRole   implements Serializable {

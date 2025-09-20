@@ -4,11 +4,6 @@ import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * Author: hrf
- * CreateTime: 2021-08-11 16:13
- *
- */
 @Configuration
 public class PageConfig {
 

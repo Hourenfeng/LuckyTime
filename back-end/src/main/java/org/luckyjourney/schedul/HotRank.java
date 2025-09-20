@@ -24,8 +24,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @description: 热度排行榜
- * @Author: hrf
- * @CreateTime: 2023-10-31 00:50
  */
 @Component
 public class HotRank {

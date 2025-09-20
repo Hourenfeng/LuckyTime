@@ -5,11 +5,7 @@ import lombok.ToString;
 
 import java.io.Serializable;
 
-/**
- * @description:
- * @Author: hrf
- * @CreateTime: 2023-10-29 14:05
- */
+
 @Data
 @ToString
 public class DetailsJson implements Serializable {

@@ -6,8 +6,6 @@ import org.luckyjourney.entity.task.VideoTask;
 
 /**
  * @description: 封装视频审核返回结果
- * @Author: hrf
- * @CreateTime: 2023-10-29 14:40
  */
 @Data
 @ToString

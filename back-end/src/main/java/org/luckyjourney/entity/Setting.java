@@ -9,14 +9,6 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import org.luckyjourney.entity.json.SettingScoreJson;
 
-/**
- * <p>
- * 
- * </p>
- *
- * @author hrf
- * @since 2023-10-29
- */
 @Data
 @EqualsAndHashCode(callSuper = false)
 @TableName("sys_setting")

@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * @description:
  * @Author: hrf
- * @CreateTime: 2023-11-03 21:52
+ * @CreateTime: 2024-01-03 21:52
  */
 @RestController
 @RequestMapping("/admin/type")

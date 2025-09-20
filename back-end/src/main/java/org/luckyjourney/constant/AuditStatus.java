@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @description:
  * @Author: hrf
- * @CreateTime: 2023-10-29 01:16
+ * @CreateTime: 2023-12-29 01:16
  */
 public class AuditStatus {
     public static Integer SUCCESS = 0; // 通过

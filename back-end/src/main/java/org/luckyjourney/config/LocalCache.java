@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentSkipListSet;
 /**
  * @description: 本地缓存
  * @Author: hrf
- * @CreateTime: 2023-11-07 16:34
+ * @CreateTime: 2023-12-07 16:34
  */
 public class LocalCache {
     private static Map<String,Object> cache = new ConcurrentHashMap();

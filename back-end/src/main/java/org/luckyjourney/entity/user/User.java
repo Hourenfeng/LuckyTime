@@ -16,14 +16,6 @@ import org.luckyjourney.entity.BaseEntity;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 
-/**
- * <p>
- * 
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Data
 @EqualsAndHashCode(callSuper = false)
 public class User extends BaseEntity {

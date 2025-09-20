@@ -6,11 +6,6 @@ import lombok.ToString;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @description:
- * @Author: hrf
- * @CreateTime: 2023-10-29 14:00
- */
 @Data
 @ToString
 public class TypeJson implements Serializable {

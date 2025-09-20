@@ -10,11 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.StringJoiner;
 
-/**
- * @description:
- * @Author: hrf
- * @CreateTime: 2023-10-27 19:19
- */
 @RestController
 @ControllerAdvice
 public class ExceptionController {

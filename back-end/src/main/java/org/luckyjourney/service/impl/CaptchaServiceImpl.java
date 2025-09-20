@@ -24,12 +24,7 @@ import java.awt.image.BufferedImage;
 import java.util.Date;
 
 /**
- * <p>
  * 系统验证码 服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-25
  */
 @Service
 public class CaptchaServiceImpl extends ServiceImpl<CaptchaMapper, Captcha> implements CaptchaService {

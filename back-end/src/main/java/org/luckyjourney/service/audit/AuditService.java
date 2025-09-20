@@ -5,7 +5,7 @@ import java.util.function.Supplier;
 /**
  * @description: 用于处理审核
  * @Author: hrf
- * @CreateTime: 2023-10-29 14:39
+ * @CreateTime: 2024-02-05 14:39
  */
 public interface AuditService<T,R> {
 

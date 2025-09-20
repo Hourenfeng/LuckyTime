@@ -22,14 +22,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * <p>
- *  服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Service
 public class RoleServiceImpl extends ServiceImpl<RoleMapper, Role> implements RoleService {
 

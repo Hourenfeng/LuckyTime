@@ -51,14 +51,6 @@ import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-/**
- * <p>
- * 服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Service
 public class VideoServiceImpl extends ServiceImpl<VideoMapper, Video> implements VideoService {
 

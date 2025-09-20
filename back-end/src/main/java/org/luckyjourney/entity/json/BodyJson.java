@@ -12,11 +12,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * @description:
- * @Author: hrf
- * @CreateTime: 2023-10-29 02:13
- */
+
 @Data
 //@ToString
 public class BodyJson implements Serializable {

@@ -15,14 +15,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.text.ParseException;
 
-/**
- * <p>
- * 前端控制器
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @RestController
 @RequestMapping("/luckyjourney/video")
 public class VideoController {

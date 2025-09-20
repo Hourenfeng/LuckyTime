@@ -10,14 +10,7 @@ import org.luckyjourney.entity.vo.FollowVO;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * <p>
- *  服务类
- * </p>
- *
- * @author hrf
- * @since 2023-10-25
- */
+
 public interface FollowService extends IService<Follow> {
     /**
      * 获取关注数量

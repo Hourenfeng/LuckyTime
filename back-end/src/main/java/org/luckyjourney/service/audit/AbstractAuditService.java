@@ -22,7 +22,7 @@ import java.util.UUID;
 /**
  * @description:  统一封装审核逻辑，并留给子类进行编排或者调用普通逻辑
  * @Author: hrf
- * @CreateTime: 2023-11-03 12:05
+ * @CreateTime: 2024-02-03 12:05
  */
 @Service
 public abstract class AbstractAuditService<T,R> implements AuditService<T,R> {

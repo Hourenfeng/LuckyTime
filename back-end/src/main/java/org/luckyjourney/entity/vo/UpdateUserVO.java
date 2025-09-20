@@ -8,8 +8,6 @@ import javax.validation.constraints.NotNull;
 
 /**
  * @description: 修改用户信息
- * @Author: hrf
- * @CreateTime: 2023-11-04 15:41
  */
 @Data
 public class UpdateUserVO {

@@ -11,14 +11,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * <p>
- * 服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Service
 public class VideoStarServiceImpl extends ServiceImpl<VideoStarMapper, VideoStar> implements VideoStarService {
 

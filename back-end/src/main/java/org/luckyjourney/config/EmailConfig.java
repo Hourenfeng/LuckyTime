@@ -8,7 +8,7 @@ import org.springframework.mail.javamail.JavaMailSenderImpl;
 /**
  * @description:
  * @Author: hrf
- * @CreateTime: 2023-10-25 12:11
+ * @CreateTime: 2023-12-25 12:11
  */
 @Configuration
 public class EmailConfig {

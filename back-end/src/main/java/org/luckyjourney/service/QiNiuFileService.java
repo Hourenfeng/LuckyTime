@@ -8,9 +8,7 @@ import java.io.File;
 import java.io.InputStream;
 import java.util.Map;
 
-/**
- * @author hrf
- */
+
 public interface QiNiuFileService extends FileCloudService{
 
 

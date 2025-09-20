@@ -13,12 +13,7 @@ import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 
 /**
- * <p>
  * 系统验证码
- * </p>
- *
- * @author hrf
- * @since 2023-10-25
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

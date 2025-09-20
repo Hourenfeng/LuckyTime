@@ -2,10 +2,6 @@ package org.luckyjourney.authority;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Author: hrf
- * CreateTime: 2022-06-13 12:44
- */
 public class DefaultAuthorityVerify implements AuthorityVerify{
 
 

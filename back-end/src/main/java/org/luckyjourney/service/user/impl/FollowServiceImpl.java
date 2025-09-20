@@ -26,14 +26,6 @@ import javax.annotation.security.DenyAll;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * <p>
- * 服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-25
- */
 @Service
 public class FollowServiceImpl extends ServiceImpl<FollowMapper, Follow> implements FollowService {
 

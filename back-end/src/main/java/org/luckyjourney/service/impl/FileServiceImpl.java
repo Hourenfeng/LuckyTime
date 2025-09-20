@@ -15,14 +15,6 @@ import org.springframework.stereotype.Service;
 import java.util.Objects;
 import java.util.UUID;
 
-/**
- * <p>
- *  服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-11-20
- */
 @Service
 public class FileServiceImpl extends ServiceImpl<FileMapper, File> implements FileService {
 

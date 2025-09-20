@@ -12,14 +12,6 @@ import org.luckyjourney.schedul.HotRank;
 
 import java.util.*;
 
-/**
- * <p>
- *  服务类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 public interface VideoService extends IService<Video> {
 
     /**

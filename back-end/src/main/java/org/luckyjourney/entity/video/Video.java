@@ -16,14 +16,6 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * <p>
- *
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Data
 @EqualsAndHashCode(callSuper = false)
 public class Video extends BaseEntity {

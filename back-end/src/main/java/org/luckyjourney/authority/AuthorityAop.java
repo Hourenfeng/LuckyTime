@@ -17,8 +17,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Method;
 
 /**
- * Author: hrf
- * CreateTime: 2022-06-05 00:36
  * 权限校验
  * 多个aop的情况下使用 @Order(1) 来指定顺序
  */

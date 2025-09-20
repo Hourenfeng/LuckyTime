@@ -6,12 +6,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import java.awt.image.BufferedImage;
 
 /**
- * <p>
  * 系统验证码 服务类
- * </p>
- *
- * @author hrf
- * @since 2023-10-25
  */
 public interface CaptchaService extends IService<Captcha> {
 

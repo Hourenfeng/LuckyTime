@@ -21,10 +21,6 @@ import java.util.Map;
 import java.util.UUID;
 
 
-/**
- * @author hrf
- * @date 2023-10-25
- **/
 @Data
 @Component
 @ConfigurationProperties(prefix = "qiniu.kodo")

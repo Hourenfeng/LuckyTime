@@ -6,8 +6,6 @@ import org.luckyjourney.entity.vo.VideoVO;
 
 /**
  * @description: 封装发布视频
- * @Author: hrf
- * @CreateTime: 2023-11-02 13:57
  */
 @Data
 public class VideoTask {

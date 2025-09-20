@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @description: 用户订阅表
  * @Author: hrf
- * @CreateTime: 2023-11-01 14:59
+ * @CreateTime: 2024-02-01 14:59
  */
 @Data
 public class UserSubscribe {

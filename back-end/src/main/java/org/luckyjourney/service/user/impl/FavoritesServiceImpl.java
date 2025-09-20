@@ -19,14 +19,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-/**
- * <p>
- *  服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-30
- */
 @Service
 public class FavoritesServiceImpl extends ServiceImpl<FavoritesMapper, Favorites> implements FavoritesService {
 

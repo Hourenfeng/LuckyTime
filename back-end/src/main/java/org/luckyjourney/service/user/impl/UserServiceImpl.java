@@ -45,14 +45,6 @@ import java.util.stream.Collectors;
 
 import static org.luckyjourney.constant.RedisConstant.USER_SEARCH_HISTORY_TIME;
 
-/**
- * <p>
- *  服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Service
 public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements UserService {
 

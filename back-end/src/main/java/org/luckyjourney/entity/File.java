@@ -7,14 +7,6 @@ import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
-/**
- * <p>
- * 
- * </p>
- *
- * @author hrf
- * @since 2023-11-20
- */
 @Data
 @EqualsAndHashCode(callSuper = false)
 public class File extends BaseEntity implements Serializable {

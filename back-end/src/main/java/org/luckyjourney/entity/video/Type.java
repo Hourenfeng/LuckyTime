@@ -17,12 +17,7 @@ import org.luckyjourney.entity.BaseEntity;
 import javax.validation.constraints.NotBlank;
 
 /**
- * <p>
- * 
- * </p>
  * 分类,隐藏视频标签
- * @author hrf
- * @since 2023-10-24
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

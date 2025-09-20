@@ -10,14 +10,6 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Set;
 
-/**
- * <p>
- *  服务类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 public interface UserService extends IService<User> {
 
     /**

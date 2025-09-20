@@ -5,12 +5,6 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-/**
- * Author: hrf
- * CreateTime: 2022-06-05 00:37
- * 授权注解
- * 不需要校验的请求不用加注解即可
- */
 
 
 @Target(ElementType.METHOD)

@@ -13,12 +13,7 @@ import org.luckyjourney.entity.BaseEntity;
 import javax.validation.constraints.NotBlank;
 
 /**
- * <p>
  *  收藏夹
- * </p>
- *
- * @author hrf
- * @since 2023-10-30
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

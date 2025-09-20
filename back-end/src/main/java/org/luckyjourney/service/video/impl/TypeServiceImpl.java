@@ -10,14 +10,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * <p>
- *  服务实现类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 @Service
 public class TypeServiceImpl extends ServiceImpl<TypeMapper, Type> implements TypeService {
 

@@ -25,11 +25,6 @@ import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-/**
- * @description:
- * @Author: hrf
- * @CreateTime: 2023-10-26 11:54
- */
 // 暂时为异步
 @Service
 public class InterestPushServiceImpl implements InterestPushService {

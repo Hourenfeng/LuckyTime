@@ -2,8 +2,6 @@ package org.luckyjourney.entity.json;
 
 import lombok.Data;
 
-
-
 @Data
 public class ScoreJson{
     Double minPulp;

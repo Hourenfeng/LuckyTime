@@ -9,14 +9,6 @@ import org.luckyjourney.util.R;
 
 import java.util.List;
 
-/**
- * <p>
- *  服务类
- * </p>
- *
- * @author hrf
- * @since 2023-10-24
- */
 public interface RoleService extends IService<Role> {
 
     List<Tree> tree();
