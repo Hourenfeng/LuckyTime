@@ -7,29 +7,29 @@
 
 ![功能模块.png](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68cec286a1d77e5ff37c0355)
 
-## 🗜 架构设计
+## 🗜架构设计
 
 ![架构设计.jpg](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68cec30c5802951f40b23c7e)
 
 ## 🎨 截图
 ### 用户平台
 登录注册
-![注册.png](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68cec358ddf6b15eb1a582f4)
+![首页2.jpg](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68d4f9bd022dae5726d5eb50)
 首页
-![首页.png](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68cec3879642253faa291654)
+![登录注册.jpg](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68d4f9d99e1b5303d538735d)
 视频播放
 ![播放视频.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECRMhozsRZiCioVP7XF3AaNfLpwDUrLgACFSQAAtUHeVYNjMzV0m6REDYE.png)
 个人中心
-![创作中心.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECRNdozsSdUgGfm_QEfcOSidEOJYjOKQACJSQAAtUHeVYNMxT2fXrykDYE.png)
+![微信图片_20250925163125_46_272.jpg](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68d4fe1085e2346ef31e39b8)
 ### 后台管理
 可管理首页的分类
-![后台分类.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECRNtozsS8PlHtVdqyzxffOWg61HNL-QACKiQAAtUHeVYBIQ_6tFgS1jYE.png)
+![后台分类.png](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68d4fe59ad76996681fa8d93)
 使用RBAC实现权限模块,超级管理员可自行分配角色
-![后台权限界面.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECRNxozsS8TZoDVtei7SXSqL57dVxnIQACKyQAAtUHeVbwZlGWuChdYTYE.png)
+![后台权限界面.png](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68d4fe78a1d77e5ff37c7518)
 系统配置中配置了审核力度、审核开关、热门视频热度限制、白名单
-![后台审核界面.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECROlozsUQoAjnwRat1qAgYcJfEoxQtwACOCQAAtUHeVYG2UKyQatmMTYE.png)
+![后台审核界面.png](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68d4fe906259c6283aba8bc1)
 可对视频进行下架审核处理
-![后台视频.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECROpozsUUrE1P-OxdEaRbxP639VIomQACOSQAAtUHeVbkXNOLomhMYjYE.png)
+![后台视频.png](https://tc-cdn.processon.com/po/624aef811e085307894a8e29-68d4fe9c5802951f40b2aef1)
 ## 📦 核心亮点
 ### - **兴趣推送**
 群体：用户——兴趣推送；游客——热门推送
